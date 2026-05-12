@@ -1,6 +1,9 @@
 # fork-me
 Yeah, right. FORK ME!!!
 
+MI PARTICIPACION EN LABORATORIO 7
+OMAR DIAZ
+
 So, do you want to learn how to fork a repo? You can. 
 
 - Just fork this repo
